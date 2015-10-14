@@ -1,0 +1,1 @@
+Use Windows Short cuts in java swing.
